@@ -1,0 +1,1 @@
+Na server strani se unose tri razlicite cifre, kada se one unesu tek onda je moguce pokrenuti klijent program. Na straninklijenta se prikazuje tabela, klikom na tabelu klijent pokusava da pogodi gde se nalaze cifre, ima 5 pokusaja. Obavezno je na strani severa kod unosenja poslednje cifre da se klikne van tabele da bi se ona unela inace ce se odbiti konekcija.
